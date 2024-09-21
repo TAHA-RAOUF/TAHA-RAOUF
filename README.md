@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TAHA-RAOUF
-- 👀 I’m interested in  le devloppement web
-- 🌱 I’m currently learning a coder
-- 💞️ I’m looking to collaborate on  un projet
-- 📫 How to reach me .taharaouf1123@gmail.com
+👋 Hi, I’m @TAHA-RAOUF
+👀 I’m interested in web development
+🌱 I’m currently learning to code
+💞️ I’m looking to collaborate on a project
+📫 How to reach me: taharaouf1123@gmail.com
 
 <!---
 TAHA-RAOUF/TAHA-RAOUF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
