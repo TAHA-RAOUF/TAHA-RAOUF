@@ -12,7 +12,10 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" alt="Coding GIF">
+</p>
+
 
 <!-- Dynamic Language Logos Section -->
 <!-- Tech Stack Section -->
