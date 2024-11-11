@@ -14,10 +14,13 @@
 
 ---
 
+<!-- Dynamic Language Logos Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-%231E90FF.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development Badge" />
-  <img src="https://img.shields.io/badge/Coding-%231E90FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Coding Badge" />
-  <img src="https://img.shields.io/badge/Collaboration-%231E90FF.svg?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration Badge" />
+  <img src="https://img.shields.io/badge/Dynamic_HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+  <img src="https://img.shields.io/badge/Dynamic_CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+  <img src="https://img.shields.io/badge/Dynamic_JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Dynamic_Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge" />
+  <img src="https://img.shields.io/badge/Dynamic_React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
 </div>
 
 ---
