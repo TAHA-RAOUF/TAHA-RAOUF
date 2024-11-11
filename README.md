@@ -16,6 +16,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Welcome GIF" width="600"/>
 </p>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="600"/>
+</p>
+
+<p align="center">
   <a href="https://badge.mediaplus.ma/levi/moraouf">
     <img src="https://badge.mediaplus.ma/levi/moraouf" alt="Raouf Taha's 42 stats" />
   </a>
