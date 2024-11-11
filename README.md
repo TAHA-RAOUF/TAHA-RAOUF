@@ -3,13 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=I'm+a+Web+Developer;I'm+a+Coder;Hi,+I'm+Raouf+Taha;I'+m+a+Backend+Dev;I'm+passionate+about+coding!;Let's+build+something+amazing!" alt="Dynamic Text" />
 </p>
-### <div align="center">About Me</div>
+ <div align="center">About Me</div>
 
 <p align="center">
 - 👀 **I’m interested in:** Web development<br>
 - 🌱 **Currently learning:** Software development and coding<br>
 - 💞️ **Looking to collaborate on:** Web and full-stack projects<br>
-- 📫 **Reach me at:** [taharaouf1123@gmail.com](mailto:taharaouf1123@gmail.com)
+- 📫 **Reach me at:** (mailto:taharaouf1123@gmail.com)
 </p>
 
 <p align="center">
@@ -34,10 +34,6 @@
   <img src="https://img.icons8.com/?size=100&id=1q0xlAMYQeet&format=png&color=000000" alt="Laravel Icon" width="50" />
   <img src="https://img.icons8.com/?size=100&id=1q0xlAMYQeet&format=png&color=000000" alt="React Icon" width="50" />
 </div>
----
-
-
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
