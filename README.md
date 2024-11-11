@@ -18,13 +18,12 @@
 
 
 <!-- Dynamic Language Logos Section -->
-<!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+  <img src="https://img.icons8.com/?size=100&id=1q0xlAMYQeet&format=png&color=000000" alt="PHP Icon" width="50" />
+  <img src="https://img.icons8.com/?size=100&id=1q0xlAMYQeet&format=png&color=000000" alt="CSS Icon" width="50" />
+  <img src="https://img.icons8.com/?size=100&id=1q0xlAMYQeet&format=png&color=000000" alt="JavaScript Icon" width="50" />
+  <img src="https://img.icons8.com/?size=100&id=1q0xlAMYQeet&format=png&color=000000" alt="Laravel Icon" width="50" />
+  <img src="https://img.icons8.com/?size=100&id=1q0xlAMYQeet&format=png&color=000000" alt="React Icon" width="50" />
 </div>
 ---
 
