@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I'm Raouf Taha </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=I'm+a+Web+Developer;I'm+a+Coder;Hi,+I'm+Raouf+Taha;I'm+passionate+about+coding!;Let's+build+something+amazing!" alt="Dynamic Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=I'm+a+Web+Developer;I'm+a+Coder;Hi,+I'm+Raouf+Taha;I'+m+a+Backend+Dev;I'm+passionate+about+coding!;Let's+build+something+amazing!" alt="Dynamic Text" />
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Welcome GIF" width="600"/>
