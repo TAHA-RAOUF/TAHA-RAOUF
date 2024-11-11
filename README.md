@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" alt="Coding GIF">
 </p>
 
