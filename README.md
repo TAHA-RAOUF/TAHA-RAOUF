@@ -3,6 +3,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=I'm+a+Web+Developer;I'm+a+Coder;Hi,+I'm+Raouf+Taha;I'+m+a+Backend+Dev;I'm+passionate+about+coding!;Let's+build+something+amazing!" alt="Dynamic Text" />
 </p>
+### <div align="center">About Me</div>
+
+<p align="center">
+- 👀 **I’m interested in:** Web development<br>
+- 🌱 **Currently learning:** Software development and coding<br>
+- 💞️ **Looking to collaborate on:** Web and full-stack projects<br>
+- 📫 **Reach me at:** [taharaouf1123@gmail.com](mailto:taharaouf1123@gmail.com)
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Welcome GIF" width="600"/>
 </p>
@@ -27,14 +36,6 @@
 </div>
 ---
 
-### <div align="center">About Me</div>
-
-<p align="center">
-- 👀 **I’m interested in:** Web development<br>
-- 🌱 **Currently learning:** Software development and coding<br>
-- 💞️ **Looking to collaborate on:** Web and full-stack projects<br>
-- 📫 **Reach me at:** [taharaouf1123@gmail.com](mailto:taharaouf1123@gmail.com)
-</p>
 
 ---
 
