@@ -20,11 +20,11 @@
     <img src="https://badge.mediaplus.ma/levi/moraouf" alt="Raouf Taha's 42 stats" />
   </a>
 </p>
-
+[
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" alt="Coding GIF">
 </p>
-
+](url)
 
 <!-- Dynamic Language Logos Section -->
 <div align="center">
