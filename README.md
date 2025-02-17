@@ -48,6 +48,8 @@
 </div>
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAHA-RAOUF&langs_count=10&theme=radical)
+
 
 <p align="center">
   Connect with me for collaboration, learning, and coding! Let's build something amazing together!
