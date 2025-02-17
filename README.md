@@ -48,9 +48,9 @@
 </div>
 
 ---
-<p align="center">
+<div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAHA-RAOUF&langs_count=10&theme=radical)
-</p>
+</div>
 
 
 
