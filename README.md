@@ -49,8 +49,9 @@
 
 ---
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAHA-RAOUF&langs_count=10&theme=radical)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TAHA-RAOUF&langs_count=10&theme=radical" alt="Top Langs" />
 </div>
+
 
 
 
