@@ -29,6 +29,46 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" alt="Coding GIF">
 </p>
 ] -->
+<h2 align="center">📊 42 Stats & GitHub Activity</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧑‍💻 My 42 Profile</h3>
+      <p align="center">
+        <a href="https://github.com/oakoudad/badge42">
+          <img src="https://badge.mediaplus.ma/greenbinary/taha.laylay" alt="taha.laylay's 42 stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ GitHub Stats</h3>
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=TAHA-RAOUF&show_icons=true&theme=radical" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💻 Most Used Languages</h3>
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAHA-RAOUF&layout=compact&theme=radical" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔥 Contribution Streak</h3>
+      <p align="center">
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAHA-RAOUF&theme=radical" alt="GitHub Streak" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Dynamic Language Logos Section -->
 <div align="center">
